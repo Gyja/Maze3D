@@ -46,7 +46,7 @@ Demonixis.Gui.MiniMap = function(width, height, parent) {
                 y: y
             };
         } else if (id == 'J') {
-            this.ctx.fillStype = "yellow";
+            this.ctx.fillStyle = "yellow";
         } else if (id == 'A') {
             this.ctx.fillStyle = "blue";
         } else {

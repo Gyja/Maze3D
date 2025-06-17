@@ -200,10 +200,10 @@ Demonixis.Input.prototype._onKeyStateChange = function(event, pressed) {
         case 65:
             this.keys.a = pressed;
             break; // Touche A
-        case 65:
+        case 66:
             this.keys.b = pressed;
             break; // Touche B
-        case 65:
+        case 67:
             this.keys.c = pressed;
             break; // Touche C
         case 68:

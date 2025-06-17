@@ -3,7 +3,7 @@
     var height = window.innerHeight * 0.995;
     var canvasContainer = document.getElementById("canvasContainer");
     var renderer, camera, scene;
-    var input, miniMap, levelHelper, CameraHelper;
+    var input, miniMap, levelHelper, cameraHelper;
     var map = new Array();
     var running = true;
 
